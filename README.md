@@ -1,4 +1,3 @@
-# Octanet-task-2
 
 ### README
 
